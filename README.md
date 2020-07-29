@@ -1,5 +1,7 @@
 # 2020-07-29-git-geswamy
 
+## The basics
+
 - `git init`: create a repository in your current folder
 - `git status`: Show current status, once commit is done, working tree is clean
 
